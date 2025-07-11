@@ -111,7 +111,7 @@ CORS_ALLOW_ALL_ORIGINS = True  # For dev only
 
 ---
 
-## 🙌 Author
+##  Author
 
 **Clifford Mukosh**  
 _“Code with purpose, design with care.”_
