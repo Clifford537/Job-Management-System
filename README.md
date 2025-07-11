@@ -74,9 +74,9 @@ npm run dev
 
 ---
 
-## 🔀 CORS Note
+##  CORS Note
 
-Ensure Django CORS is configured to allow React access. In `backend/settings.py`:
+Ensure Django CORS is configured to allow React access. In `backend/job_management/settings.py`:
 
 ```python
 INSTALLED_APPS += ['corsheaders']
