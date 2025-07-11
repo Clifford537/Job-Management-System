@@ -1,5 +1,5 @@
 
-# 🧑‍💼 Job Board Platform (React + Django)
+# Job Managemet system (React + Django)
 
 A modern job listing board built with **React** for the frontend and **Django REST Framework** for the backend. Users can browse, post, and view job listings through a clean, responsive UI.
 
@@ -32,13 +32,13 @@ Both frontend and backend are inside this directory:
 
 ---
 
-## 🐍 Backend Setup (Django)
+##  Backend Setup (Django)
 
-### 📦 Requirements:
+###  Requirements:
 - Python 3.8+
 - pip / virtualenv
 
-### ⚙️ Setup & Run:
+###  Setup & Run:
 
 ```bash
 python -m venv venv
