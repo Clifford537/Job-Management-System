@@ -41,6 +41,7 @@ Both frontend and backend are inside this directory:
 ###  Setup & Run:
 
 ```bash
+#On the root folder create a virtual environment and activate then install the dependancies
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
