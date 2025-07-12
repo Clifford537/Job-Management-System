@@ -109,7 +109,7 @@ CORS_ALLOW_ALL_ORIGINS = True  # For dev only
 ### ✅ Job Detail View
 ![Job Success](./IMG4.png)
 
-### ✅ Job Edit View
+### ✅ Job Update View
 ![Job Edit](./IMG6.png)
 
 ---
