@@ -21,12 +21,12 @@ Both frontend and backend are inside this directory:
 
 ```
 /job-board-project
-├── backend/    ← Django project
-├── frontend/   ← React app
-├── IMG1.png   ← Job List Screenshot
-├── IMG2.png   ← Job Create Form
-├── IMG3.png   ← Job Details View
-├── IMG4.png   ← Job Creation Success Toast
+├── backend/   
+├── frontend/  
+├── IMG1.png  
+├── IMG2.png   
+├── IMG3.png   
+├── IMG4.png   
 └── README.md
 ```
 
@@ -103,11 +103,14 @@ CORS_ALLOW_ALL_ORIGINS = True  # For dev only
 ### 📝 Job Create Form
 ![Job Create](./IMG2.png)
 
-### 📄 Job Created Toast
-![Job Detail](./IMG3.png)
+### 📄 Job Delete Toast
+![Job Deelete](./IMG5.png)
 
 ### ✅ Job Detail View
 ![Job Success](./IMG4.png)
+
+### ✅ Job Edit View
+![Job Edit](./IMG6.png)
 
 ---
 
