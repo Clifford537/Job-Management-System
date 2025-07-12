@@ -1,3 +1,4 @@
+// src/App.jsx
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import JobList from "./components/JobList";
@@ -14,6 +15,7 @@ function App() {
         <Route path="/" element={<JobList />} />
         <Route path="/jobs/:id" element={<JobDetail />} />
         <Route path="/create" element={<JobForm />} />
+        <Route path="/jobs/:id/edit" element={<JobForm />} /> 
       </Routes>
     </Router>
   );
